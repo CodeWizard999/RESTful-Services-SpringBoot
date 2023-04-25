@@ -1,6 +1,6 @@
 # RESTful Services with Spring Boot
 
-This project demonstrates a basic implementation of RESTful services using Spring Boot. The project contains a REST controller (RestTestController.java) that provides endpoints to perform CRUD operations on a Student resource.
+A RESTful services project is a type of web service project that adheres to the principles of REST architecture, allowing different systems to communicate with each other over the internet. This project acts as a backend API that serves data through HTTP requests, and it can be tested using Postman, as well as through automated testing using JUnit.
 
 # Usage with Postman
 You can use Postman to test the different endpoints provided by the RestTestController. The available endpoints are:

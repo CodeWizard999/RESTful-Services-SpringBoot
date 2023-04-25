@@ -1,0 +1,1 @@
+CREATE TABLE students (id int NOT NULL Primary Key AUTO_INCREMENT, name VARCHAR(16), grade int, letterGrade VARCHAR(5));
